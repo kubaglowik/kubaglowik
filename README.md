@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @kubaglowik
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning  w technical school
-- 📫 How to reach me  in my facebook Jakub Głowik
+- 🌱 I’m currently learning  in technical school
+
